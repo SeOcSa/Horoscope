@@ -1,0 +1,9 @@
+c:\users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\bin\Debug\netcoreapp1.1\Horoscope.deps.json
+c:\users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\bin\Debug\netcoreapp1.1\Horoscope.runtimeconfig.json
+c:\users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\bin\Debug\netcoreapp1.1\Horoscope.runtimeconfig.dev.json
+c:\users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\bin\Debug\netcoreapp1.1\Horoscope.dll
+c:\users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\obj\Debug\netcoreapp1.1\Horoscope.csprojResolveAssemblyReference.cache
+c:\users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\obj\Debug\netcoreapp1.1\Horoscope.AssemblyInfo.cs
+C:\Users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\bin\Debug\netcoreapp1.1\Horoscope.pdb
+C:\Users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\obj\Debug\netcoreapp1.1\Horoscope.dll
+C:\Users\sesa\documents\visual studio 2017\Projects\Horoscope\Horoscope\obj\Debug\netcoreapp1.1\Horoscope.pdb

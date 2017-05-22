@@ -1,0 +1,18 @@
+﻿@model IndexViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <br />
+    <br />
+    @foreach(var item in Model.StudentInfos)
+    {
+        @Html.Partial("_Summary", item);
+    }
+</div>
+
+<div class="row">
+    <a class="btn btn-block btn-primary" asp-action="CalculateAll">Calculeaza numar studenti</a>
+</div>
