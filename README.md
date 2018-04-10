@@ -1,5 +1,10 @@
 # Horoscope
-Calculate some data prediction for Students base on name, id number and mark.
+An asp.net core 1.1 MVC application using EF and SQL server who predict the following:
+-The evolution of the  grades for a student base on his name and registration number.
+-If the student will have a nice or bad day based on current date and the first letter from his Name.
+
+------------------------------------------------------------------------------------------------------------------
+
 
 Prezice daca media unui student, identificat prin numarul matricol, va creste sau va scadea in viitor, pe baza urmatorului algoritm de horoscop: daca suma caracterelor din numarul matricol si din nume, modulo 2, este egala cu 1, media va creste, iar daca suma este zero, media va descreste
 prezice cati dintre studentii cu medie peste 8 vor avea media scazuta in viitor (pe baza algoritmului de predictie de la punctul anterior)
